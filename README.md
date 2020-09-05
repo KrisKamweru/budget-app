@@ -1,6 +1,7 @@
 # BudgetApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+Followed the tutorial by Devstackr found here: https://www.youtube.com/watch?v=sU4z4Ti-8OQ 
 
 ## Development server
 
